@@ -1,4 +1,4 @@
-# 🛠️ Mini Projet - Gestion des articles
+ Mini Projet - Gestion des articles
 
 Ce projet est une application web simple pour la gestion des articles, avec une interface frontend (React.js) et une interface backend (Node.js + Express + MongoDB), utilisant JWT pour l'authentification.
 
